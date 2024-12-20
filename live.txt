@@ -18973,4 +18973,10 @@ CN卡通,p3p://108.181.20.159:40159/61ded38e000d52023d43f93e0ee00012$LR•IPV4�
 哈哈炫动,https://stream1.freetv.fun/ipv6-ha-ha-xuan-dong-10.m3u8$LR•IPV4『线路66』
 哈哈炫动,http://58.57.40.22:9901/tsfile/live/1061_1.m3u8$LR•IPV4『线路67』
 哈哈炫动,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225657/index.m3u8$LR•IPV4『线路68』
+🎵广播,#genre#
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8$LR•IPV4『线路1』
+音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8$LR•IPV4『线路2』
+北京交通广播,https://fanmingming.com/fm?id=354$LR•IPV4
+北京音乐广播,https://fanmingming.com/fm?id=356$LR•IPV4
+中国之声,https://fanmingming.com/fm?id=639$LR•IPV4
 
